@@ -1,0 +1,77 @@
+{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+        "<ul style=list-style-type:none><li>LINEAR ALGEBRA<ol type=1><li>Vectors, Matrices</li><li>Tensors</li><li>Matrix Operations</li><li>Projections</li><li>Eigenvalue decomposition of a matrix</li><li>LU Decomposition</li><li>QR Decomposition/Factorization</li><li>Symmetric Matrices</li><li>Orthogonalization & Orthonormalization</li><li>Real and Complex Analysis (Sets and Sequences, Topology, Metric Spaces, Single-Valued and Continuous Functions, Limits, Cauchy Kernel, Fourier Transforms)</li><li>Information Theory (Entropy, Information Gain)</li><li>Function Spaces and Manifolds</li><li>Relational Algebra and SQL</li></li></ol><li>Multivariable calculus <ol type=1><li>Differential and Integral Calculus</li><li>Partial Derivatives</li><li>Vector-Values Functions</li><li>Directional Gradient</li><li>Hessian</li><li>Jacobian</li><li>Laplacian and Lagragian Distribution</li></li></ol><li>Probability for Data Scientists <ol type=1><li>Probability Theory and Statistics</li><li>Combinatorics</li><li>Random Variables</li><li>Probability Rules & Axioms</li><li>Bayes' Theorem</li><li>Variance and Expectation</li><li>Conditional and Joint Distributions</li><li>Standard Distributions (Bernoulli, Binomial, Multinomial, Uniform and Gaussian)</li><li>Moment Generating Functions</li><li>Maximum Likelihood Estimation (MLE)</li><li>Prior and Posterior</li><li>Maximum a Posteriori Estimation (MAP) and Sampling Methods</li><li>Descriptive Statistics</li><li>Hypothesis Testing</li><li>Goodness of Fit</li><li>Analysis of Variance</li><li>Correlation</li><li>Chi2 test</li><li>Design of Experiments</li></ol></li><li>Algorithms and Data Structures</li><li>Python Programming Language<ol type=1><li>Python language fundamentals</li><li>Data Structures</li><li>Beautiful Soup</li><li>Regular Expressions</li><li>JSON</li><li>Restful Web Services (Flask)</li><li>NumPy</li><li>Plots in matplotlib, seaborn</li><li>Pandas</li></li><ol>"
+    ],
+    "short_description": "The Program covers the basics foundations you need to start learning AI and Algorithms. It covers Mathematical basics like Multivariate Calculus, Linear Algebra. Probability and Inferential Statistics, the course also cover basics of Python Programming.",
+    "image": "foundation_of_learning_ai.png",
+    "instructors": [{
+    "name": "Joy Mustafi",
+    "profile_url": "http://innosential.com/joy-mustafi/",
+    "image": "joy.jpg"
+    }, {
+    "name": "Dipanjan Sarkar",
+    "profile_url": "http://innosential.com/dipanjan-sarkar",
+    "image": "Dipanjan.png"
+    }, {
+    "name": "Pratinbha Moongi",
+    "profile_url": "http://innosential.com/pratibha-moogi",
+    "image": "pratibha.jpg"
+    }],
+    "title": "Foundation of Learning AI",
+    "units": [
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors":[
+                "Joy Mustafi"
+            ],
+            "title": "Linear Algebra"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors":[
+                "Joy Mustafi",
+                "Dipanjan Sarkar"
+            ],
+            "title": "Probability for Data Scientists"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors":[
+                "Joy Mustafi",
+                "Dipanjan Sarkar"
+            ],
+            "title": "Algorithms and Data Structures"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors":[
+                "Joy Mustafi",
+                "Dipanjan Sarkar"
+            ],
+            "title": "R and Python"
+        }
+
+    ]
+}
